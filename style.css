@@ -1,0 +1,168 @@
+body {
+	background-color: aliceblue;
+}
+
+#me {
+	margin: 10px auto;
+	width: 900px;
+	height: 450px;
+	border: 5px;
+	box-shadow: 10px 20px 30px lightgrey;
+	background-color: white;
+}
+
+#name {
+	font-family: "Arial", sans-serif;
+	font-size: 30px;
+	text-align: center;
+	line-height: 3;
+}
+
+#AC{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	border-radius: 50%;
+}
+
+#desme {
+	font-family: "Avenir", sans-serif;
+	color: dimgrey;
+	font-size: 15px;
+	text-align: center;
+	line-height: 1.5;
+	margin: 40px 20px 15px 20px;
+}
+
+#KBS{
+	background: aliceblue;
+	border-radius: 10px;
+	border: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	min-height: 30px;
+	min-width: 120px;
+}
+
+#KCL {
+	margin: 10px auto;
+	width: 900px;
+	height: 450px;
+	border: 5px;
+	box-shadow: 10px 20px 30px lightgrey;
+	background-color: white;
+	margin-top: 50px;
+}
+
+#ed {
+	font-family: "Arial", sans-serif;
+	font-size: 20px;
+	text-align: center;
+	line-height: 3;
+}
+
+#schools {
+	font-family: "Avenir", sans-serif;
+	color: dimgrey;
+	font-size: 12px;
+	text-align: center;
+	line-height: 1.5;
+	margin: 5px 100px 15px 100px;
+}
+
+#KCLB {
+	background: red;
+	color: white;
+	border-radius: 10px;
+	border: none;
+	margin-left: 300px;
+	margin-right: 200px;
+	padding: 15px;
+	min-height: 30px;
+	min-width: 120px;
+	display: inline-block;
+	margin: 0px 190px;
+}
+
+#B {
+	background: darkblue;
+	color: white;
+	border-radius: 10px;
+	border: none;
+	margin-left: 200px;
+	margin-right: 200px;
+	padding: 15px;
+	min-height: 30px;
+	min-width: 120px;
+	display: inline-block;
+	margin: 0px 0px;
+}
+
+#proof {
+	width: 100px;
+	margin-top: 50px;
+	display: inline-block;
+	margin: 10px 300px;
+}
+
+#prooftext{
+	width: 400px;
+	display: inline-block;
+	margin: 5px -310px;
+}
+
+#Interact{
+	margin: 10px auto;
+	width: 900px;
+	height: 350px;
+	border: 5px;
+	box-shadow: 10px 20px 30px lightgrey;
+	background-color: white;
+	margin-top: 50px;
+}
+
+#Int {
+	font-family: "Arial", sans-serif;
+	font-size: 20px;
+	text-align: center;
+	line-height: 3;
+}
+
+#logoint {
+	width: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#desint {
+	font-family: "Avenir", sans-serif;
+	color: dimgrey;
+	font-size: 12px;
+	text-align: center;
+	line-height: 1.5;
+	margin: 20px 100px 15px 100px;
+}
+
+#insta {
+	background: pink;
+	border-radius: 10px;
+	border: none;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+	min-height: 30px;
+	min-width: 120px;
+}
+
+#linkedin {
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	margin-top: 10px;
+}
